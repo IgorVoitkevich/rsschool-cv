@@ -114,3 +114,12 @@ a .fab {
   text-decoration: underline;
   text-align: center;
 }
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  padding: 20px 60px 20px 60px;
+  color: white;
+  background-color: #1e232c;
+  text-align: center;
+}
