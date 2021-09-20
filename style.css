@@ -8,12 +8,12 @@ body {
 }
 
 a {
-  color: #b85b04;
+  color: #090f09;
   text-decoration: none;
 }
 
 p {
-  color:#a85508;
+  color:#af7407;
   text-decoration: none;
 }
 
@@ -120,6 +120,6 @@ a .fab {
   align-items: center;
   padding: 20px 60px 20px 60px;
   color: white;
-  background-color: #1e232c;
+  background-color: #c26005;
   text-align: center;
 }
